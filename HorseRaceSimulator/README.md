@@ -53,4 +53,14 @@ You can visually configure race parameters, place bets, and watch the animated r
 
 
 ## Project Structure
-\\\plaintext HorseRaceSimulator/ ├── Part1/ │ ├── Horse.java // Base horse class │ └── Race.java // Console version of the race simulation ├── Part2/ │ ├── ExtendedHorse.java // Extended horse class with race statistics and performance │ ├── RacePanel.java // GUI race simulation panel │ ├── BettingPanel.java // GUI betting system panel │ └── RaceGUI.java // Main class for the GUI version └── README.md // This file \\\
+```plaintext
+HorseRaceSimulator/
+├── Part1/
+│   ├── Horse.java              // Base horse class
+│   └── Race.java               // Console version of the race simulation
+├── Part2/
+│   ├── ExtendedHorse.java      // Extended horse class with race statistics and performance
+│   ├── RacePanel.java          // GUI race simulation panel
+│   ├── BettingPanel.java       // GUI betting system panel
+│   └── RaceGUI.java            // Main class for the GUI version
+└── README.md                   // This file
